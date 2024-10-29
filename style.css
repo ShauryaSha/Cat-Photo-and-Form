@@ -1,0 +1,78 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+body{
+    background-color: darkgoldenrod;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkorange;
+    margin: -8px;
+    color:ghostwhite;
+    position: sticky;
+    top: 0
+}
+
+.tit2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#st2{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    
+}
+
+nav{
+    padding-top: 15px;
+    margin: 0 15px;
+    background-color: chocolate;
+    padding: 15px;
+    margin-left: -9px;
+    margin-right: -9px;
+    position: sticky;
+    top: 58px
+}
+
+#one{
+    margin: 0 10px;
+    font-size: 22px;
+}
+
+#two{
+    margin: 0 10px;
+    font-size: 22px;
+}
+
+#three{
+    margin: 0 10px;
+    font-size: 22px;
+}
+
+a {
+    color: rgb(137, 199, 230);
+    text-decoration: none;
+    
+}
+a:hover {
+    color:#b0e1ed; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+.center1{
+   text-align: center;
+}
+
+form{
+    margin: auto;
+}
